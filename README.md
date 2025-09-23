@@ -1,1 +1,2 @@
-# Regression-Modeling-with-ANN-on-GPU-Platform
+# Binary Classification with Neural Networks on the Census Income Dataset
+
